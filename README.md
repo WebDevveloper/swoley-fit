@@ -1,12 +1,13 @@
 # swoley-fit — генератор тренировок (React + Vite + Tailwind)
 
-**Status:** Maintained / polishing
-**Next:** deploy + screenshots
+**Status:** Maintained / polishing.
+
+**Next:** deploy + screenshots.
 
 **Кратко (30 сек):** одностраничное приложение, которое генерирует тренировочные планы по выбранным параметрам (формат/мышечные группы/цели). Лёгкий UI на Tailwind, без бэкенда.
 
 ## Демо / скриншоты
-- Деплой: _добавь ссылку (Netlify)_
+- Деплой: comming soon
 - Скриншоты: `./docs/screenshots/` (главный экран, генератор, карточки упражнений, Lighthouse mobile)
 
 ## Стек
